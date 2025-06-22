@@ -1,2 +1,2 @@
 # rar
-Scripting language implemented in Zig
+Programming language implemented in Zig
